@@ -25,6 +25,7 @@ I'm always excited to learn new technologies, work on challenging projects, and 
 
  
 **Core Stack:** 
+
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
